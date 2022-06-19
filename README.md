@@ -1,4 +1,4 @@
 # MyPortfolioWebsite
 A portfolio website using ReactJs
 
-(https://myportfoliokd.netlify.app)
+(https://personalportfoliokausani.netlify.app)
