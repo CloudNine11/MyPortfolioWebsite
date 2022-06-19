@@ -1,4 +1,4 @@
 # MyPortfolioWebsite
 A portfolio website using ReactJs
 
-link:kausaniportfolio.netlify.app
+link:(https://kausaniportfolio.netlify.app)
